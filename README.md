@@ -8,8 +8,6 @@ El objetivo principal es dividir a los clientes de un negocio en grupos o segmen
 2. Realizar un análisis de segmentación de clientes: Identificar grupos homogéneos de clientes basados en características comunes, como preferencias de compra y comportamiento de consumo, para comprender mejor sus necesidades y patrones.
 3. Explorar y aplicar técnicas avanzadas de clustering: Desarrollar y comparar varios modelos de agrupamiento, incluyendo:
 - K-Means Clustering: Para identificar grupos bien definidos de clientes.
-- Clustering Jerárquico: Para analizar relaciones jerárquicas entre los clientes.
-- DBSCAN (Density-Based Spatial Clustering of Applications with Noise): Para detectar patrones en datos con ruido o formas no lineales.
 4. Proporcionar estrategias basadas en los resultados: Utilizar los insights obtenidos de los modelos de clustering para:
 - Diseñar estrategias de marketing personalizadas para cada segmento.
 - Identificar oportunidades específicas para aumentar la conversión de membresías.
